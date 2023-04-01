@@ -1,0 +1,26 @@
+{
+  "name": "my-lerna2",
+  "version": "0.0.0",
+  "description": "my-lerna2...",
+  "author": "kennyliang <123141619@qq.com>",
+  "homepage": "https://github.com/kennyliang09/lerna#readme",
+  "license": "ISC",
+  "main": "lib/my-lerna2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennyliang09/lerna.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/my-lerna2.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/kennyliang09/lerna/issues"
+  }
+}
