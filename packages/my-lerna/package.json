@@ -1,9 +1,8 @@
 {
-    "name": "@ylui/button",
-    "version": "0.0.0",
-    "description": "按钮",    
-    "devDependencies": {
-      "antd": "^4.24.8"
-    }
+  "name": "@ylui/button",
+  "version": "0.0.1",
+  "description": "按钮",
+  "devDependencies": {
+    "antd": "^4.24.8"
   }
-  
+}
